@@ -16,6 +16,7 @@ body {
     padding: 0;
     margin: 0;
     font-weight: 300;
+    background-repeat: no-repeat;
 }
 
 body, input {
@@ -40,7 +41,7 @@ main {
 }
 
 .robo {
-    height: 110%;
+    height: 100%;
     z-index: 1;
     position: absolute;
     left: -20%;
