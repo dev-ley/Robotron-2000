@@ -8,6 +8,7 @@
     box-sizing: border-box;
 }
 
+
 body {
     background: url(../img/fundo.jpg);
     background-position: center center;
@@ -35,6 +36,7 @@ main {
     margin: 0;
     flex-basis: 40%;
     position: relative;
+    z-index: -1;
 }
 
 .robo {

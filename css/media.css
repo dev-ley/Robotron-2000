@@ -1,0 +1,19 @@
+@media screen and (max-width: 768px) {   
+    /*Celular*/
+    img#robi  {width:100%;}
+    z-index: -1;
+
+    section.equipamentos {
+
+        font-size: 11px;
+        
+        }
+}
+
+
+
+.montador {
+
+    height: auto;
+
+}
