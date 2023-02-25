@@ -17,6 +17,7 @@ body {
     margin: 0;
     font-weight: 300;
     background-repeat: no-repeat;
+    background-image: 100vh;
 }
 
 body, input {
